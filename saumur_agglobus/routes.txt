@@ -1,0 +1,2 @@
+agency_id,route_id,route_type,route_short_name,route_long_name,route_desc,route_url,route_color,route_text_color,route_sort_order,continuous_pickup,continuous_drop_off
+SAUMUR AGGLOBUS,ROUTE-31,3,31,Saumur Centre-Ville - Saint-Hilaire Saint-Florent,,,000000,000000,,0,
